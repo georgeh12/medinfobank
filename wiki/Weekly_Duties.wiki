@@ -1,0 +1,14 @@
+#summary This page contains the duties for each week and will be updated each week.
+
+= Weekly Duties 2/19/09 - 2/26/09=
+
+Weekly duties will be updated every Thursday evening(ideally).
+
+
+*Duties*:
+  Josh: write out general information for the functional requirements, create a wiki 
+        work page, write the Bi-Weekly report
+  Kyle: draw up some sample GUIs for a meeting with Dawn(Tues or Thurs)
+  Phil: write up the general info for the SRS
+  Sean: look in to adding buttons to the Calendar code
+  George: look in to setting up a database, file reading/writing if no db can be found
