@@ -1,8 +1,24 @@
-#summary Duties for 2/19/09-2/26/09
+#summary Weekly Duties
+<pre>
+Weekly duties will be updated every Thursday evening(ideally).
+
+
+
+= Weekly Duties 2/26/09 - 3/1/09 =
+
+
+*Duties*:
+  Josh: construct diagrams for Product Scope, Schedule Appointment
+  Kyle: write 1 or 2 paragraphs on Product Scope
+  Phil: write references section, compile the SRS
+  Sean: write 1 or 2 paragraphs 
+  George: write purpose of product
+
+Extra: Can someone do section 3 of the SRS(that's the section dealing with the NFRs)
+
+
 
 = Weekly Duties 2/19/09 - 2/26/09=
-
-Weekly duties will be updated every Thursday evening(ideally).
 
 
 *Duties*:
@@ -12,3 +28,4 @@ Weekly duties will be updated every Thursday evening(ideally).
   Phil: write up the general info for the SRS
   Sean: look in to adding buttons to the Calendar code
   George: look in to setting up a database, file reading/writing if no db can be found
+</pre>
