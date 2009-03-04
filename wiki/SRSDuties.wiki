@@ -13,8 +13,7 @@ left that need to be done.  Thanks.
 (J = Josh, K = Kyle, S = Sean, P = Phil, G = George)
 
 
-  -edit cover page so that it conforms to the grading rubric
- -write an intro for Section 1.2 References, and list them
+  -write an intro for Section 1.2 References, and list them
  -write a paragraph or so explaining the login information and remove "primary actor"
   and other terminology that Mitchell told us should not be in there with something else
  S-write intros for each subsection of Section 3
