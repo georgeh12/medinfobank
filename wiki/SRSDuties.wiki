@@ -14,7 +14,7 @@ left that need to be done.  Thanks.
 
 
   P-write an intro for Section 1.2 References, and list them
- -write a paragraph or so explaining the login information and remove "primary actor"
+ K/G-write a paragraph or so explaining the login information and remove "primary actor"
   and other terminology that Mitchell told us should not be in there with something else
   (refers to section 1.4 Product Scope)
  S-write intros for each subsection of Section 3
