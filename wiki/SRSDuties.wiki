@@ -14,13 +14,12 @@ left that need to be done.  Thanks.
 
 
   P-write an intro for Section 1.2 References, and list them
- K/G-write a paragraph or so explaining the login information and remove "primary actor"
+ G-write a paragraph or so explaining the login information and remove "primary actor"
   and other terminology that Mitchell told us should not be in there with something else
   (refers to section 1.4 Product Scope)
  S-write intros for each subsection of Section 3
  S-come up with a format for all of the NFRs
- -write intro for Section 4 Deliverables
- -write Appendix A: Customer Contractor Agreement (See sample SRS for more info)
+ K-write Appendix A: Customer Contractor Agreement (See sample SRS for more info)
    ~Please send to Josh so I can look over it and send it to Dawn~
  -write Appendix B: Group Agreement(See sample SRS for more info)
    ~We will all look over this at the meeting this Thursday, I would like to have it
