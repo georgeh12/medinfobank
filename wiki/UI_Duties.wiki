@@ -1,0 +1,13 @@
+#summary UI Duties
+
+= Duties =
+<pre>
+ K-Introduction
+ K-User Interface Standards
+ Team-UI Walkthrough
+  -UI Walkthrough Screen shots (figures)
+ K-Data Validation
+ Team-Report Formats
+  -Appendices A,B (Already complete)
+  -Appendix C (need to update the contributions file)
+</pre>
