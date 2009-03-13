@@ -1,0 +1,18 @@
+#summary SDD Duties
+
+= Duties =
+
+<pre>
+ J-Introduction
+     1.1 Purpose
+     1.2 References
+ J-Architectural Design
+     Logic
+     Technology
+ G-Decomposition Description (2.2)
+  -Database Descriptions (Do we need to do this?)
+ P-File Descriptions (3.2)
+ S-Requirements Matrix (4)
+  -Appendices A,B are done.
+  -Appendix C (need to update contributions)
+</pre>
