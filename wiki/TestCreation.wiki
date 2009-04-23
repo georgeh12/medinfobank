@@ -1,0 +1,12 @@
+#summary Tests
+
+= Tests =
+<pre>
+
+    J - Maintain Patient Repo Use Cases
+   P - Print Report Use Cases
+   S - Schedule Appt Use Cases
+
+
+  If anyone has any questions about their tests, let Josh know.
+</pre>
