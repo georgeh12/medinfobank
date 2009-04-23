@@ -1,0 +1,13 @@
+#summary TR Duties
+
+= Duties =
+<pre>
+   K - Intro
+   S - Sections 2.1 and 2.2
+   J - Section 2.3
+   P - Section 3
+   G - Compile document and Appendix C
+
+
+ If anyone has any questions about what they are supposed to do, or need more information to do their part, let Josh know.
+</pre>
