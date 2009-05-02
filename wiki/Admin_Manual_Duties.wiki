@@ -1,0 +1,13 @@
+#summary Admin Manual Duties
+
+= Duties =
+<pre>
+
+ J-Sec 1 and 2, Update Appendix C
+P-Sec 3
+S-Sec 4 and compilation
+K&G-Report known bugs
+
+
+ If anyone has any questions about what they are supposed to do, or need more information to do their part, let Josh know.
+</pre>
