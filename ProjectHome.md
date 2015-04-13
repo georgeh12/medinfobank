@@ -1,0 +1,1 @@
+This the Medical Information Bank program.  It manages medical information.
